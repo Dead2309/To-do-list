@@ -25,5 +25,7 @@ Cette To-Do List permet à l'utilisateur d'ajouter, de supprimer et de marquer d
 1. Clone le dépôt :
    ```bash
    git clone https://github.com/Dead2309/To-do-list.git
+
+## 📸 Aperçu
 ![Capture d'écran 2025-04-15 232727](https://github.com/user-attachments/assets/2bbe4699-2728-40c4-ac03-e8041e053c3b)
 ![Capture d'écran 2025-04-15 232706](https://github.com/user-attachments/assets/c6e5e5f0-5895-4157-9452-4e63e512f62c)
